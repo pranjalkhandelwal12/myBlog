@@ -1,0 +1,13 @@
+<html>
+   <head>
+        <title>My Blog</title>
+   </head>
+   <body>  
+        <h1>My Blogs</h1>
+        <h2>HTML CSS Blog</h2>
+        
+        <h2>Sports Blogs</h2>
+     
+   
+   </body>
+</html> 
